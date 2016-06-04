@@ -1,0 +1,1 @@
+python main.py [path_to_directory]
